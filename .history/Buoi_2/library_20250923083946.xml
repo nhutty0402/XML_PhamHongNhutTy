@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "library_list.dtd">
+<library>
+    <book id="B001">
+        <title> Lập trình C# </title>
+        <author> Huỳnh Văn Chương </author>
+        <year> 2022 </year>
+        <genre> Công nghệ thông tin</genre>
+    </book>
+    <book id="B002">
+        <title> quản trị kinh doanh </title>
+        <author> Trần Thị D</author>
+        <year> 2018 </year>
+        <genre> Kinh tế </genre>
+    </book>
+</library>
